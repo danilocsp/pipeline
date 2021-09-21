@@ -38,7 +38,7 @@ Who are committers:
     <td align="center">
       <img src="https://avatars3.githubusercontent.com/u/90567353" width="100px;" /><br>
       <sub>
-        <b>Everton Gago</b>
+        <b>Danilo Pereira</b>
       </sub>
     </td>    
   </tr>
