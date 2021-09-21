@@ -14,7 +14,7 @@ class ToTrusted(AbstractJob):
         df = spark.read.format('csv').option('header',True).load(self.fr_path)
 
         # drop nullable records
-        # df = df.na.drop()
+        df = df.na.drop()
 
         # write data to trusted
         df.write.format('delta').mode('overwrite').save(self.to_path)
