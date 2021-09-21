@@ -36,16 +36,10 @@ Who are committers:
 <table>
   <tr>
     <td align="center">
-      <img src="https://avatars3.githubusercontent.com/u/6043071" width="100px;" /><br>
+      <img src="https://avatars3.githubusercontent.com/u/90567353" width="100px;" /><br>
       <sub>
         <b>Everton Gago</b>
       </sub>
-    </td>
-    <td align="center">
-      <img src="https://avatars3.githubusercontent.com/u/65639438" width="100px;" /><br>
-      <sub>
-        <b>Renan Rossi</b>
-      </sub>
-    </td>
+    </td>    
   </tr>
 </table>
