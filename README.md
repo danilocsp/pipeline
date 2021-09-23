@@ -36,7 +36,7 @@ Who are committers:
 <table>
   <tr>
     <td align="center">
-      <img src="https://avatars3.githubusercontent.com/u/90567353" width="100px;" /><br>
+      <img src="https://avatars3.githubusercontent.com/u/90567353" width="101px;" /><br>
       <sub>
         <b>Danilo Pereira</b>
       </sub>
